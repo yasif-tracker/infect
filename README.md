@@ -78,7 +78,7 @@ __Exit__ :
 - From this option you can exit from infect tool 
 
 ## ?? ***Screenshot*** :
-<img src="https://user-images.githubusercontent.com/49580304/70858686-834b6580-1f2c-11ea-9ea6-0839251db161.jpg" width="80%"></img>
+<img src="https://i.pinimg.com/564x/1f/4d/33/1f4d335502fda0ff9a339b952a5db473.jpg" width="80%"></img>
 
 ## ?? ***Full video tutorial***:
 [![m-wiz metasploit-franework tool](https://img.youtube.com/vi/8RXVODXMsa8/0.jpg)](https://youtube.com/YasifTech)
