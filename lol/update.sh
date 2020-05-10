@@ -37,7 +37,7 @@ echo -e "$grn                updating the infect  please wait$rset"
 sleep 2.0
 cd $HOME
 rm -rf Infect
-git clone https://github.com/noob-hackers/Infect
+git clone https://github.com/yasif-tracker/infect
 clear
 echo " "
 echo -e "$grn               infect has been updated check it now...$rset"
