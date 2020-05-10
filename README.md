@@ -7,9 +7,9 @@
 
 Infect is a bash based script which is officially made for termux users and from this tool you can spread android virus by just sending link. This tool works on both rooted Android device and Non-rooted Android device.
 
-[![Build Status](https://img.shields.io/github/stars/noob-hackers/Infect.svg)](https://github.com/noob-hackers/Infect)
-[![Build Status](https://img.shields.io/github/forks/noob-hackers/Infect.svg)](https://github.com/noob-hackers/Infect)
-[![License: MIT](https://img.shields.io/github/license/noob-hackers/Infect.svg)](https://github.com/noob-hackers/Infect)
+[![Build Status](https://img.shields.io/github/stars/noob-hackers/Infect.svg)](https://github.com/yasif-tracker/infect)
+[![Build Status](https://img.shields.io/github/forks/noob-hackers/Infect.svg)](https://github.com/yasif-tracker/infect)
+[![License: MIT](https://img.shields.io/github/license/noob-hackers/Infect.svg)](https://github.com/yasif-tracker/infect)
 [![Rawsec's CyberSecurity Inventory](https://inventory.rawsec.ml/img/badges/Rawsec-inventoried-FF5050_flat.svg)](https://inventory.rawsec.ml/tools.html#Infect)
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
@@ -41,7 +41,7 @@ $ pkg install git -y
 $ pip install lolcat
 ```
 ```
-$ git clone https://github.com/noob-hackers/Infect
+$ git clone https://github.com/yasif-tracker/infect
 ```
 ```
 $ ls
@@ -80,34 +80,34 @@ __Exit__ :
 <img src="https://user-images.githubusercontent.com/49580304/70858686-834b6580-1f2c-11ea-9ea6-0839251db161.jpg" width="80%"></img>
 
 ## ?? ***Full video tutorial***:
-[![m-wiz metasploit-franework tool](https://img.youtube.com/vi/8RXVODXMsa8/0.jpg)](https://youtu.be/8RXVODXMsa8)
+[![m-wiz metasploit-franework tool](https://img.youtube.com/vi/8RXVODXMsa8/0.jpg)](https://youtube.com/YasifTech)
 ## ?? ***Check this***
 
 ### Subscribe our channel on youtube:
-https://www.youtube.com/noobhackers
+https://www.youtube.com/YasifTech
 
 ### Chekout our webite:
-https://www.noob-hackers.com
+https://www.yasiftracker.cf
 
 ## ?? ***Join***
 
 ### Facebook group: 
-https://www.facebook.com/groups/1936478173310085
+https://www.facebook.com/
 
 ### Telegram channel:
-https://t.me/noobhack
+https://t.me/yasiftech
 
 ### Facebook page:
-https://www.facebook.com/Noob-Hackers-250938565573643
+https://www.facebook.com/yasiftech
 
 ### Instagram: 
-https://www.instagram.com/noobhackers352
+https://www.instagram.com/yasiftech
 
 ### Pinterest:
-https://in.pinterest.com/noobhackers
+https://in.pinterest.com/yasiftech
 
 ### My GitHub ID link:
-https://www.github.com/noob-hackers
+https://github.com/yasif-tracker/
 
 ### ?? Warning
 
