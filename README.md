@@ -14,7 +14,7 @@ Infect is a bash based script which is officially made for termux users and from
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-![photo_2019-06-29_15-32-01](https://user-images.githubusercontent.com/49580304/70858686-834b6580-1f2c-11ea-9ea6-0839251db161.jpg)
+![photo_2019-06-29_15-32-01](https://i.pinimg.com/564x/76/d0/5a/76d05a80e758aef5b43d2ec4aad36116.jpg)
 
 
 ### ?? ***Infect is available for***:
