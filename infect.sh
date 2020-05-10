@@ -1,5 +1,5 @@
-# A tool by nitro from www.noob-hackers.com
-# Be a unique person not copy cat
+# A tool by yasif 
+# Be a unique person
 # Colours
 #-----------------
 red='\033[1;31m'
@@ -27,17 +27,17 @@ echo '
 X |......XX%,.@      \######/%;\;;;;, /      @#%,XX......| X
 X |.....X  @#%,.@     |######%%;;;;,.|     @#%,.@  X.....| X
 X  \...X     @#%,.@   ----------------    @ @ 00 0 xxxxxxxxx
- X# \.X        @#%,.@   Infect v1.1      @#%,.@        
+ X# \.X        @#%,.@   Infect v1.2      @#%,.@        
                 @#%,.@              @#%,.@          
                   @#%,.@          @#%,.@            
                      @#%,.@      @#%,.@             
                        @#%.,@  @#%,.@              
-                         noobhackers
+                        yasif-tracker
 '|lolcat
 echo " " 
 
-echo -e "$red                      ▶ Coded by$grn N17RO$red ◀$rset"
-echo -e "$red                 ⫸$ylo youtube.com/noobhackers$red ⫷$rset"
+echo -e "$red                      ▶ Coded by$grn YasiF$red ◀$rset"
+echo -e "$red                 ⫸$ylo youtube.com/YasifTech$red ⫷$rset"
 echo 
 # Functions
 echo -e "$red                   [Infect them with fun]$rset"
@@ -101,7 +101,7 @@ echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                   Are you sure? Press$grn ENTER$red to exit$rset"
-read nitroo
+read yasiff
 cd $HOME/Infect
 bash infect.sh
 else
