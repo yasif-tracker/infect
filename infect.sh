@@ -101,7 +101,7 @@ echo -e "$ylo         To terminate the process click$red 't' $ylo or to continue
 read choice
 if [ $choice = 't' ] ; then
 echo -e "$red                   Are you sure? Press$grn ENTER$red to exit$rset"
-read yasiff
+read nitro
 cd $HOME/Infect
 bash infect.sh
 else
